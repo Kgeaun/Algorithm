@@ -1,10 +1,10 @@
 # [level unrated] 두 수의 합 - 120802 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802?language=c) 
 
 ### 성능 요약
 
-메모리: 72.6 MB, 시간: 0.02 ms
+메모리: 3.63 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 11월 2일 8:40:45
+2024년 1월 4일 10:56:13
 
 ### 문제 설명
 
