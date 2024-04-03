@@ -7,8 +7,8 @@ arr = 배열 (숫자 0부터 9까 이루어짐)
 
 1) answer에 먼저 arr[0]을 append
 
-2) for문은 arr 만큼 돈다.
-2-1 if answer[i]과 answer[i-1]이 다르면 answer[i]를 append한다.
+2) for문은 arr길이 만큼 돈다.
+2-1 if arr[i]과 arr[i-1]이 다르면 answer에 arr[i]를 append한다.
 
 '''
 def solution(arr):
