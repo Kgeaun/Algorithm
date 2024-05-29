@@ -19,6 +19,7 @@ def solution(participant, completion):
             hash[i] += 1 # 동명이인이 나왔을 경우 (leo : 1 + 1)
         else:
             hash[i] = 1 #ex) 처음 나온 이름일 경우 (leo : 1)
+    
     for i in completion:
         if hash[i] == 1: #hash 안의 값이 1이면 삭제 (1-1)
             del hash[i]
